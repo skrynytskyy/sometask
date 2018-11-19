@@ -5,7 +5,9 @@ that I can quickly catch things up and get familiar with unfamiliar tools.
 
 - I have written few working test with BDD
 - I have configured cucumber
-- I have configured gitlabCI
+- I have written universal cucumber steps with parameters which I am reusing in BDD scenarios
+- I have resolved cross origin issue
+- I tried to configure gitlabCI + running via Docker
 
 - Unfortunately to save time I didn't use pageobject (or any other) pattern that's why I use locators directly in step definitions (and even some helpful functions as well)
 - But nevertheless it shows that I can quickly start with absolutely new tools
